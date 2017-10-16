@@ -1,1 +1,7 @@
-java\nkotlin\nscala\nruby\njavascript\nc++
+typescript
+java
+kotlin
+scala
+ruby
+javascript
+rust
